@@ -1,4 +1,4 @@
-# Assignment 1 
+# Assignment 1
 
 - Name : Haniif Satria Wardana
 - ID : 2702358065
@@ -15,3 +15,5 @@ he git pull command is used to fetch and download content from a remote reposito
 ```bash
 git pull
 ```
+
+Thank please give me 100
