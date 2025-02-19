@@ -31,3 +31,9 @@ git stash temporarily shelves (or stashes) changes you've made to your working c
 ![image](https://github.com/user-attachments/assets/6ae59190-9d71-41b1-ae5a-edde6c949005)
 
 ![image](https://github.com/user-attachments/assets/898232c8-8499-46c4-9386-90ec5eafa4bc)
+
+![image](https://github.com/user-attachments/assets/898232c8-8499-46c4-9386-90ec5eafa4bc)
+ 
+
+ # Git Revert
+ The git revert command can be considered an 'undo' type command, however, it is not a traditional undo operation. Instead of removing the commit from the project history, it figures out how to invert the changes introduced by the commit and appends a new commit with the resulting inverse content. This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
