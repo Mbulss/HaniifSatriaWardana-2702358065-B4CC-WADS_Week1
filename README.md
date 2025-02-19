@@ -11,3 +11,5 @@ Here we'll examine the git clone command in depth. git clone is a Git command li
 # Git Fork
 
 Forking a repository means creating a copy of the repo. When you fork a repo, you create your own copy of the repo on your GitHub account. When several developers want to work on a project but need to make changes that are inappropriate for the original repository, forking is frequently used in open-source software development.
+
+![image](https://github.com/user-attachments/assets/898232c8-8499-46c4-9386-90ec5eafa4bc)
