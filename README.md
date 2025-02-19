@@ -1,4 +1,4 @@
-# Assignment 1 
+# Assignment 1
 
 - Name : Haniif Satria Wardana
 - ID : 2702358065
@@ -15,5 +15,7 @@ he git pull command is used to fetch and download content from a remote reposito
 ```bash
 git pull
 ```
-# Git Pull 
-Here we'll examine the git clone command in depth. git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository.
+
+# Git stash
+
+git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on. Stashing is handy if you need to quickly switch context and work on something else, but you're mid-way through a code change and aren't quite ready to commit.
