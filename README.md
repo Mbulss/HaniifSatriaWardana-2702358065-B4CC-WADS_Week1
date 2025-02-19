@@ -29,3 +29,5 @@ git stash temporarily shelves (or stashes) changes you've made to your working c
 
 
 ![image](https://github.com/user-attachments/assets/6ae59190-9d71-41b1-ae5a-edde6c949005)
+
+![image](https://github.com/user-at tachments/assets/898232c8-8499-46c4-9386-90ec5eafa4bc)
