@@ -26,3 +26,6 @@ git pull
 # Git stash
 
 git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on. Stashing is handy if you need to quickly switch context and work on something else, but you're mid-way through a code change and aren't quite ready to commit.
+
+
+![image](https://github.com/user-attachments/assets/6ae59190-9d71-41b1-ae5a-edde6c949005)
